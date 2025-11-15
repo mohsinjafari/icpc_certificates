@@ -1,1 +1,1 @@
-##This repository holds ICPC contest certificates and any related files, organized by year.
+This repository holds ICPC contest certificates and any related files, organized by year.
